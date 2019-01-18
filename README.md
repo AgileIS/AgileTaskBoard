@@ -6,7 +6,6 @@
 
 ## Installation Guides
 
-
 [AddIn Version](docs/AddIn.md)
 
 [SPFx Version](docs/SPFx.md)
