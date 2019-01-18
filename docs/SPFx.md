@@ -1,1 +1,5 @@
-# Work in progress
+# AgileTaskBoard - SPFx Version
+
+## Quick Installation Guide
+
+### Coming soon...

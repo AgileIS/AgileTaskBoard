@@ -1,6 +1,6 @@
 # AgileTaskBoard - Add In Version
 
-## Quick Installation Guide:
+## Quick Installation Guide
 
 - Upload of the App-Package to the local App-Store of your SharePoint farm
 
