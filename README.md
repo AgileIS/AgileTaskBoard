@@ -1,4 +1,4 @@
-# AgileTaskBoard
+# Agile Task Board
 
 ## Overview Video
 
