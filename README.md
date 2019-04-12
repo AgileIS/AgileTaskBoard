@@ -26,6 +26,10 @@ Each task board can be setup differently, including how the tasks are presented.
 
 [SPFx Version](docs/SPFx.md)
 
+## Changelog
+
+[Release notes](Releasenotes.md)
+
 ## Further information
 
 [Agile-IS GmbH](http://agile-is.de)
