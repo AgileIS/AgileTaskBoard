@@ -15,7 +15,10 @@ Each task board can be setup differently, including how the tasks are presented.
 	• Filter the board by assigned people, tags or search terms
 	• Define and use swimlanes
 	• Adjust presentation by board instance
- 
+
+## Download Current Version
+[Agile Task Board releases](https://github.com/AgileIS/AgileTaskBoard/releases)
+
 ## Overview Video
 
 [![Feature Overview](https://raw.githubusercontent.com/AgileIS/AgileTaskBoard/master/docs/images/TeaserOverview.gif)](https://www.youtube.com/watch?v=Omb4-xvUENI "Feature Overview")
