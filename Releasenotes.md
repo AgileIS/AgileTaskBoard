@@ -2,6 +2,7 @@
 
 ## Changelog
 
+- [Version 2.1.0.0](#version-2100)
 - [Version 2.0.0.0](#version-2000)
 - [Version 1.4.0.0](#version-1400)
 - [Version 1.3.0.0](#version-1300)
@@ -10,6 +11,25 @@
 - [Version 1.0.0.0](#version-1000)
 
 ---
+
+#### Version 2.1.0.0
+
+> New Features
+
+- Doing/Done (Enhanced Features)
+- History & Comments
+- Fixed HeaderBar
+  - AddIn FullPage only
+
+> Bugfixes
+
+- document linking
+- styling fixes across browsers
+- many other fixes
+
+> Known Issues
+
+- Touch DnD partial support for ie11 and Edge
 
 #### Version 2.0.0.0
 
@@ -81,7 +101,6 @@
 - Read-Only View if User has not the necessary permissions
 - implemented Touch-Drag-and-Drop
 
-
 > Changes
 
 - new design for Edit Task Panel
@@ -125,7 +144,7 @@
 
 > Bugfixes
 
-- Taskboard not loading, when standard Sharepoint columns from Tasks got removed. 
+- Taskboard not loading, when standard Sharepoint columns from Tasks got removed.
 - singleuserfield for Editpanel
 
 ---
@@ -133,6 +152,7 @@
 ### Version 1.1.0.0
 
 > New Features
+
 - customizable Tasks
 - RTE Editor for notefields
 - Checklist Editor
@@ -141,6 +161,7 @@
   - filter options for tasks
 
 > Improvents
+
 - Task Board settings options
   - reorder of swimlanes, preferred tags and people with drag and drop
 
@@ -151,6 +172,7 @@
 ### Version 1.0.0.0
 
 > Features
+
 - create and modify new tasks on the board
 - change status with drag and drop
 - add tags to tasks
