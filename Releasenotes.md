@@ -2,6 +2,7 @@
 
 ## Changelog
 
+- [Version 2.2.0.0](#version-2200)
 - [Version 2.1.0.0](#version-2100)
 - [Version 2.0.0.0](#version-2000)
 - [Version 1.4.0.0](#version-1400)
@@ -11,6 +12,27 @@
 - [Version 1.0.0.0](#version-1000)
 
 ---
+
+#### Version 2.2.0.0
+
+> New Features
+
+- Teams integration
+- Theming SPFx and AddIn SP2016+ 
+- "First Steps" dialog
+- Doing/Done mobile view
+
+> Bugfixes
+
+- JSOM ClientContext.get_current() issue
+- Minor fixes
+
+> Known Issues
+
+- "fixed headerbar" position after page edit/publish, fixed after page refresh
+- Touch DnD partial support for ie11 and Edge
+- IE11 input cursor position on task (card) inputs
+
 
 #### Version 2.1.0.0
 
@@ -29,7 +51,7 @@
 
 > Known Issues
 
-- Touch DnD partial support for ie11 and Edge
+- Touch DnD partial support for IE11 and Edge
 
 #### Version 2.0.0.0
 
@@ -61,7 +83,7 @@
 > Bugfixes
 
 - EditPanel loading if a configured Field is missing
-- ie11 focus problem with tooltips
+- IE11 focus problem with tooltips
 - attachments link parsing
 - collapse swimlanes behavior
 - invalid Requestdigest after 30min

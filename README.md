@@ -1,4 +1,7 @@
 # Agile Task Board
+
+![Agile Task Board](docs/images/atb_logo_64.png)
+
 Organize your team and project tasks easily within seconds. Share the current state with your team, stakeholders or customers. Reorganize, change or assign tasks while in a meeting. 
 
 The Agile Task Board helps you to keep track of your tasks, while being easy to setup, configure and use. It extends your already existing SharePoint task list. With this web part your project workflow can be organized based on status, swimlanes, tags and colorization.
@@ -28,6 +31,8 @@ Each task board can be setup differently, including how the tasks are presented.
 [AddIn Version](docs/AddIn.md)
 
 [SPFx Version](docs/SPFx.md)
+
+[First Steps Dialog](docs/firstSteps.md)
 
 ## Changelog
 

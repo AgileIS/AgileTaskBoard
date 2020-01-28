@@ -1,5 +1,7 @@
 # AgileTaskBoard - SPFx Version
 
+[Teams Integration](/docs/teamsIntegration.md)
+
 ## Quick Installation Guide
 
 - Upload and install the SPFx-Package in the local App-Store of your SharePoint farm
