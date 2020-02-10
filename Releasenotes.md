@@ -2,6 +2,7 @@
 
 ## Changelog
 
+- [Version 2.2.1.0](#version-2210)
 - [Version 2.2.0.0](#version-2200)
 - [Version 2.1.0.0](#version-2100)
 - [Version 2.0.0.0](#version-2000)
@@ -12,6 +13,28 @@
 - [Version 1.0.0.0](#version-1000)
 
 ---
+
+#### Version 2.2.1.0
+
+> New Features
+- Reset tag color
+- Check required fields while editing task
+- Optimizations for various window sizes
+
+> Bug Fixes
+- "fixed headerbar" position after page edit
+- Board gets stuck while trying to add more than 10 files
+- Automatically assigned face pile colors not consistent
+- First input not getting initial focus in edit task panel
+- People picker on task not getting initial focus
+- Checklist on task not closing for visitors (they now have to open the task to see the checklist)
+- No label for second user field on task card
+- Various theme related bugs
+- Lots of minor fixes
+
+> Known Issues
+- Touch DnD partial support for ie11 and Edge
+- IE11 input cursor position on task (card) inputs
 
 #### Version 2.2.0.0
 
