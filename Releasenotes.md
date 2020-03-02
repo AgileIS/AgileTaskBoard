@@ -2,6 +2,7 @@
 
 ## Changelog
 
+- [Version 2.2.2.0](#version-2220)
 - [Version 2.2.1.0](#version-2210)
 - [Version 2.2.0.0](#version-2200)
 - [Version 2.1.0.0](#version-2100)
@@ -14,14 +15,58 @@
 
 ---
 
-#### Version 2.2.1.0
+
+### Version 2.2.2.0
+
+> New Featues
+
+- Extended document handling with "Check In"/"Publish"/"Approve" functionality
+- Refresh button in header bar
+- Document drag'n'drop on card
+- Reset preferred tag color
+
+> Changes
+
+- Doing/Done presentation in mobile view
+- Exception/Performance reporting (changes to app insights functionality)
+- Window size optimizations
+- Allow "Tenant-scoped" deployment for SharePoint 2019
+
+> Bug Fixes
+
+- Some UI and theming fixes
+- Minor bug fixes
+
+> Known Issues
+
+- Touch DnD partial support for ie11 and Edge
+- IE11 input cursor position on task (card) inputs
+
+> Update info `SharePoint 2019`
+
+if the `agiletaskboard-sp2016.sppkg` is installed in the App Catalog please follow the steps bellow:
+
+- Select the `agiletaskboard-sp2016.sppkg` list entry
+- Use the Ribbon or Item Menu to select `Rename` or `Edit Properties`
+- Change the Name property from `agiletaskboard-sp2016` to `agiletaskboard-sp2019`
+- Upload and Deploy the `agiletaskboard-sp2019.sppkg` file
+
+
+### Version 2.2.1.0
 
 > New Features
+
 - Reset tag color
 - Check required fields while editing task
 - Optimizations for various window sizes
 
+> Changes
+
+- Exception/Performance reporting (changes to app insights functionality)
+  - if app insights had been switched off, performance reporting will be off on default
+
 > Bug Fixes
+
 - "fixed headerbar" position after page edit
 - Board gets stuck while trying to add more than 10 files
 - Automatically assigned face pile colors not consistent
@@ -33,17 +78,24 @@
 - Lots of minor fixes
 
 > Known Issues
+
 - Touch DnD partial support for ie11 and Edge
 - IE11 input cursor position on task (card) inputs
 
-#### Version 2.2.0.0
+
+### Version 2.2.0.0
 
 > New Features
 
 - Teams integration
-- Theming SPFx and AddIn SP2016+ 
+- Theming SPFx and AddIn SP2016+
 - "First Steps" dialog
 - Doing/Done mobile view
+
+> Changes
+
+- Exception/Performance reporting (changes to app insights functionality)
+  - if app insights had been switched off, performance reporting will be off on default
 
 > Bugfixes
 
@@ -57,7 +109,7 @@
 - IE11 input cursor position on task (card) inputs
 
 
-#### Version 2.1.0.0
+### Version 2.1.0.0
 
 > New Features
 
@@ -65,6 +117,11 @@
 - History & Comments
 - Fixed HeaderBar
   - AddIn FullPage only
+
+> Changes
+
+- Exception/Performance reporting (changes to app insights functionality)
+  - if app insights had been switched off, performance reporting will be off on default
 
 > Bugfixes
 
@@ -76,7 +133,8 @@
 
 - Touch DnD partial support for IE11 and Edge
 
-#### Version 2.0.0.0
+
+### Version 2.0.0.0
 
 > New Features
 
@@ -96,7 +154,8 @@
 - Fixed "Work In Progress"
 - Minor fixes
 
-#### Version 1.4.x.0
+
+### Version 1.4.x.0
 
 > New Features
 
@@ -136,6 +195,7 @@
 - FieldType Error on sub webs
 - Show Login promt for 304,401 user profile image
 
+
 ### Version 1.3.0.0
 
 > New Features
@@ -164,7 +224,6 @@
 - Edit Task Panel opens multiple times if task is shown in multiple swimlanes
 - IE only: Overwrite-Callout closes on first button click instead of execute button action
 
----
 
 ### Version 1.2.0.0
 
@@ -192,7 +251,6 @@
 - Taskboard not loading, when standard Sharepoint columns from Tasks got removed.
 - singleuserfield for Editpanel
 
----
 
 ### Version 1.1.0.0
 
@@ -212,7 +270,6 @@
 
 > Bugs
 
----
 
 ### Version 1.0.0.0
 
@@ -224,3 +281,5 @@
 - colorize tasks with tags
 - creating swimlanes on the board
 - customizable appearance of Tasklists per board
+
+
