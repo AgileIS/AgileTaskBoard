@@ -44,7 +44,7 @@
 
 > Update info `SharePoint 2019`
 
-if the `agiletaskboard-sp2016.sppkg` is installed in the App Catalog please follow the steps bellow:
+if the `agiletaskboard-sp2016.sppkg` is installed in the App Catalog please follow the steps below:
 
 - Select the `agiletaskboard-sp2016.sppkg` list entry
 - Use the Ribbon or Item Menu to select `Rename` or `Edit Properties`
@@ -59,11 +59,6 @@ if the `agiletaskboard-sp2016.sppkg` is installed in the App Catalog please foll
 - Reset tag color
 - Check required fields while editing task
 - Optimizations for various window sizes
-
-> Changes
-
-- Exception/Performance reporting (changes to app insights functionality)
-  - if app insights had been switched off, performance reporting will be off on default
 
 > Bug Fixes
 
@@ -92,11 +87,6 @@ if the `agiletaskboard-sp2016.sppkg` is installed in the App Catalog please foll
 - "First Steps" dialog
 - Doing/Done mobile view
 
-> Changes
-
-- Exception/Performance reporting (changes to app insights functionality)
-  - if app insights had been switched off, performance reporting will be off on default
-
 > Bugfixes
 
 - JSOM ClientContext.get_current() issue
@@ -121,13 +111,13 @@ if the `agiletaskboard-sp2016.sppkg` is installed in the App Catalog please foll
 > Changes
 
 - Exception/Performance reporting (changes to app insights functionality)
-  - if app insights had been switched off, performance reporting will be off on default
+  - If app insights had been switched off, performance reporting will be off on default
 
 > Bugfixes
 
-- document linking
-- styling fixes across browsers
-- many other fixes
+- Document linking
+- Styling fixes across browsers
+- Many other fixes
 
 > Known Issues
 
@@ -147,7 +137,7 @@ if the `agiletaskboard-sp2016.sppkg` is installed in the App Catalog please foll
 - People coloring (headerbar)
 - Code restructuring
 - Settings Panel structure
-- Tag-/People-Picker DnD improvments
+- Tag-/People-Picker DnD improvements
 
 > Bugfixes
 
@@ -155,7 +145,7 @@ if the `agiletaskboard-sp2016.sppkg` is installed in the App Catalog please foll
 - Minor fixes
 
 
-### Version 1.4.x.0
+### 1.4.x.0
 
 > New Features
 
@@ -164,58 +154,58 @@ if the `agiletaskboard-sp2016.sppkg` is installed in the App Catalog please foll
 
 > Bugfixes
 
-- EditPanel loading if a configured Field is missing
+- EditPanel loading if a configured field is missing
 - IE11 focus problem with tooltips
-- attachments link parsing
-- collapse swimlanes behavior
-- invalid Requestdigest after 30min
-- strip html on description Field
-- task coloring
+- Attachments link parsing
+- Collapse swimlanes behavior
+- Invalid Requestdigest after 30min
+- Strip html on description field
+- Task coloring
 
 ### Version 1.4.0.0
 
 > New Features
 
-- Attachments Tab with Documents and Links
+- Attachments tab with Documents and Links
 
 > Changes
 
 - UI improvements
   - Settings Panel structure
-  - Card Attachments Clip
-  - Panel Icons Only in mobile view
-- Show Label for sub heading
+  - Card attachments clip
+  - Panel icons only in mobile view
+- Show label for sub heading
 - Task fullwidth switch
 - Task sorting
 - Show due date always with offset
 
 > Bugfixes
 
-- Ampersand ＆ Fix for Tags
+- Ampersand ＆ fix for tags
 - FieldType Error on sub webs
-- Show Login promt for 304,401 user profile image
+- Show login prompt for 304,401 user profile image
 
 
 ### Version 1.3.0.0
 
 > New Features
 
-- link Documents to Task
-- upload Documents to Library
-- select existing Documents from SharePoint
-- Read-Only View if User has not the necessary permissions
-- implemented Touch-Drag-and-Drop
+- Link documents to task
+- Upload documents to library
+- Select existing documents from SharePoint
+- Read-Only view if user does not have the necessary permissions
+- Implemented Touch-Drag-and-Drop
 
 > Changes
 
-- new design for Edit Task Panel
-- select default for collapse/expand empty Swimlanes
-- reduced Calls to get UserInfos
-- prevent Drag-and-Drop between different Taskboards
+- New design for Edit Task Panel
+- Select default for collapse/expand empty Swimlanes
+- Reduced calls to get UserInfos
+- Prevent Drag-and-Drop between different Taskboards
 
 > Bugfixes
 
-- "Link to Adress" in RTE does not work in Chrome
+- "Link to Address" in RTE does not work in Chrome
 - Swimlanes switch instead of reorder
 - Swimlanes not sortable in Chrome
 
@@ -229,57 +219,57 @@ if the `agiletaskboard-sp2016.sppkg` is installed in the App Catalog please foll
 
 > New Features
 
-- pin swimlanes to top
-- collapse swimlanes
-- links to tasks
-- set editable CAML filter for last column
-- fixed headerbar while scrolling (not available for AddIn Webpart)
-- customize editfields in editpanel (reorder fields, hide fields, etc.)
+- Pin swimlanes to top
+- Collapse swimlanes
+- Links to tasks
+- Set editable CAML filter for last column
+- Fixed headerbar while scrolling (not available for AddIn Webpart)
+- Customize editfields in editpanel (reorder fields, hide fields, etc.)
 
 > Changes
 
-- new RTE editor
-- improved Checklist editor
-  - editable entries
-  - reorder entries
-- customizable Tasks
-  - select which notefield is used for default
-- subTitle is now info-only but every fieldtype can be chosen
+- New RTE editor
+- Improved Checklist editor
+  - Editable entries
+  - Reorder entries
+- Customizable Tasks
+  - Select which notefield is used as default
+- SubTitle is now info-only but every fieldtype can be chosen
 
 > Bugfixes
 
 - Taskboard not loading, when standard Sharepoint columns from Tasks got removed.
-- singleuserfield for Editpanel
+- SingleUserField for Editpanel
 
 
 ### Version 1.1.0.0
 
 > New Features
 
-- customizable Tasks
+- Customizable Tasks
 - RTE Editor for notefields
 - Checklist Editor
 - Headerbar
-  - assign users or tags to tasks with drag and drop
-  - filter options for tasks
+  - Assign users or tags to tasks with drag and drop
+  - Filter options for tasks
 
-> Improvents
+> Improvements
 
 - Task Board settings options
-  - reorder of swimlanes, preferred tags and people with drag and drop
+  - Reorder of swimlanes, preferred tags and people with drag and drop
 
-> Bugs
+> Bugfixes
 
 
 ### Version 1.0.0.0
 
 > Features
 
-- create and modify new tasks on the board
-- change status with drag and drop
-- add tags to tasks
-- colorize tasks with tags
-- creating swimlanes on the board
-- customizable appearance of Tasklists per board
+- Create and modify new tasks on the board
+- Change status with drag and drop
+- Add tags to tasks
+- Colorize tasks with tags
+- Creating swimlanes on the board
+- Customizable appearance of Tasklists per board
 
 
