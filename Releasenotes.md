@@ -177,7 +177,7 @@ if the `agiletaskboard-sp2016.sppkg` is installed in the App Catalog please foll
 - Minor fixes
 
 
-### Version 1.4.x.0
+### 1.4.x.0
 
 > New Features
 
