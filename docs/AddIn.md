@@ -1,4 +1,6 @@
-# AgileTaskBoard - Add In Version
+# Agile Task Board - SharePoint Add In Version
+
+> We highly recommend to use the SPFx-Version of Agile Task Board for SharePoint 2016 and newer!
 
 ## Quick Installation Guide
 

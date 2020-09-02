@@ -1,4 +1,6 @@
-# Teams integration
+# Teams integration  << deprecated since version 2.2.4>>
+
+There is no SPFx Sync to Teams since Version 2.2.4 available. Please use the native [Agile Task Board for Teams](TeamsApp.md) app instead. 
 
 ## Installation
 
@@ -39,3 +41,5 @@
 ![Task Board](https://raw.githubusercontent.com/AgileIS/AgileTaskBoard/master/docs/images/teams5.PNG)
 
 ![Task Board mobile view](https://raw.githubusercontent.com/AgileIS/AgileTaskBoard/master/docs/images/teams6.PNG)
+
+ 
