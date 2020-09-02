@@ -18,7 +18,7 @@ Grant admin consent as global administrator at first instantiation.
   - The app will than sign your user in and tries to aquire a user token with all needed claims.
   - If this happens the first time within your tenanant the global admin must accept the consent on behalf of the organization. Otherwise, user with less permission won't be able to use the app at all. All requested app permissions are listed below.
 
-  ![Admin Consent](images/Adminconsent.gif)
+  ![Admin Consent](images/AdminConsent.gif)
 
 ## Add a task board to a teams channel
   - Select a teams channel 

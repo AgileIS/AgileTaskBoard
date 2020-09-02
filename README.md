@@ -1,4 +1,5 @@
-# ![Agile Task Board](docs/images/LogoAgileTaskBoard_64.png) Agile Task Board (Documentation and distribution project)
+# ![Agile Task Board](docs/images/LogoAgileTaskBoard_64.png) Agile Task Board
+> documentation and distribution project
 
 Organize your team and project tasks easily within seconds. Share the current state with your team, stakeholders or customers. Reorganize, change or assign tasks while in a meeting.
 
@@ -31,10 +32,11 @@ Each task board can be setup differently, including how the tasks are presented.
 
 ## [Get the Agile Task Board app](https://github.com/AgileIS/AgileTaskBoard/releases/latest)
 
-
+For Teams and SharePoint Online environments, we recommend installing the Agile Task Board from the Microsoft Office Store. If this is not possible, you will also find the corresponding package listed in the releases. 
 
 | SharePoint version | recommended [Agile Task Board](https://github.com/AgileIS/AgileTaskBoard/releases/latest) package |
 | ------------------ | ------------------------------------------------------------------------------------------------- |
+| Teams              | agiletaskboard-teams.zip                                                                          |
 | Online             | agiletaskboard-sponline.sppkg                                                                     |
 | 2019               | agiletaskboard-sp2019.sppkg                                                                       |
 | 2016               | agiletaskboard-sp2016.sppkg                                                                       |
