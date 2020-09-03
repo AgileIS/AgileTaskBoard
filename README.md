@@ -60,8 +60,15 @@ For Teams and SharePoint Online environments, we recommend installing the Agile 
 
 ## Further information
 
-[Request a license](https://www.agile-is.de/en/agiletaskboard?utm_medium=online&utm_campaign=docu&utm_source=github#contact-us)
+We are currently working on our licensing service. Until it is ready, we will issue the licenses on your direct request. 
+
+[Request a license](https://www.agile-is.de/en/agiletaskboard?utm_medium=online&utm_campaign=docu&utm_source=github#contact-us) 
 
 [Agile-IS GmbH](http://agile-is.de)
 
 info@agile-is.de
+
+## Need Help?
+
+If you are facing any issue with Agile Task Board, please be kind and leave us a short information at [GitHub Issues](https://github.com/AgileIS/AgileTaskBoard/issues). Besides technical problems we would also like to hear your thoughts and ideas for further enhancements.
+

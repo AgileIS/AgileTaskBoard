@@ -70,3 +70,7 @@ Grant admin consent as global administrator at first instantiation.
   | AllSites.Manage         | Read and write items and lists in all site collections |
   | Sites.Search.All        | Run search queries as a user                           |
   | TermStore.ReadWrite.All | Read and write managed metadata                        |
+
+## Need Help?
+
+If you are facing any issue with Agile Task Board, please bekind and leave us a short information at [GitHub Issues](https://github.com/AgileIS/AgileTaskBoard/issues). Besides technical problems we would also like to hear your thoughts and ideas for further enhancements.
