@@ -2,6 +2,7 @@
 
 ## Changelog
 
+- [Version 2.2.4.0](#version-2240)
 - [Version 2.2.3.0](#version-2230)
 - [Version 2.2.2.0](#version-2220)
 - [Version 2.2.1.0](#version-2210)
@@ -15,6 +16,29 @@
 - [Version 1.0.0.0](#version-1000)
 
 ---
+
+
+### Version 2.2.4.0
+
+> New Features
+
+- We have redesigned the Teams app so that it now runs natively in teams and interacts with the Microsoft Graph.
+- Teams deep link support
+- The SharePoint Online App and the Teams app will soon be published in the Office Store and can be retrieved from there.
+
+> Changes
+
+- SPFx "Sync to Teams" function is no longer available due to the new native Teams App.
+
+> Bug Fixes
+
+- Update user properties after changing them in the profile, like name and image.
+- Several minor UX bug fixes.
+
+> Known Issues
+
+- Touch DnD partial support for ie11 and Edge
+- IE11 input cursor position on task (card) inputs only changeable with keyboard
 
 
 ### Version 2.2.3.0
@@ -177,7 +201,7 @@ if the `agiletaskboard-sp2016.sppkg` is installed in the App Catalog please foll
 - Minor fixes
 
 
-### 1.4.x.0
+### Version 1.4.x.0
 
 > New Features
 
