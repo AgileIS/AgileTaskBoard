@@ -2,6 +2,7 @@
 
 ## Changelog
 
+- [Version 2.2.5.0](#version-2250)
 - [Version 2.2.4.0](#version-2240)
 - [Version 2.2.3.0](#version-2230)
 - [Version 2.2.2.0](#version-2220)
@@ -16,6 +17,31 @@
 - [Version 1.0.0.0](#version-1000)
 
 ---
+
+
+### Version 2.2.5.0
+
+> New Features
+
+- Document Preview inside teams app
+
+> Changes
+
+- Updated error handling and logging.
+- Add document to task on upload
+- Added environment information inside the settings panel
+- Added more action to task (mobile view)
+
+> Bug Fixes
+
+- Several minor UX bug fixes.
+- Missing document library inside teams app
+- Minor bug fixes
+
+> Known Issues
+
+- Touch DnD partial support for ie11 and Edge
+- IE11 input cursor position on task (card) inputs only changeable with keyboard
 
 
 ### Version 2.2.4.0

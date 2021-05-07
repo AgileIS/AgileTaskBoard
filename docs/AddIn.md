@@ -1,6 +1,6 @@
 # Agile Task Board - SharePoint Add In Version
 
-> We highly recommend to use the SPFx-Version of Agile Task Board for SharePoint 2016 and newer!
+> The Add-In Version is now deprecated. For SharePoint 2016+ use the SPFx-Version!
 
 ## Quick Installation Guide
 
@@ -8,22 +8,23 @@
 
 - Adding the app to a site (Add an app -> Agile Task Board)
 
-    ![Site Contents](https://raw.githubusercontent.com/AgileIS/AgileTaskBoard/master/docs/images/SiteContents.jpg)
+  ![Site Contents](https://raw.githubusercontent.com/AgileIS/AgileTaskBoard/master/docs/images/SiteContents.jpg)
 
 - Adding a Task Board Instance to a Page
+
   - Open page in edit mode
   - Insert > App Part > Agile Task Board Web Part
   - Configuration of the task board via the Settings menu
 
-   ![Task Board Settings Button](https://raw.githubusercontent.com/AgileIS/AgileTaskBoard/master/docs/images/TaskBoardSettingsButton.jpg)
+  ![Task Board Settings Button](https://raw.githubusercontent.com/AgileIS/AgileTaskBoard/master/docs/images/TaskBoardSettingsButton.jpg)
 
 - First settings
+
   - Select task list
   - Select status
   - Define persons and tags
 
-   ![Task Board Settings](https://raw.githubusercontent.com/AgileIS/AgileTaskBoard/master/docs/images/TaskBoardSettings.jpg)
-
+  ![Task Board Settings](https://raw.githubusercontent.com/AgileIS/AgileTaskBoard/master/docs/images/TaskBoardSettings.jpg)
 
 ## Upgrade Agile Task Board SharePoint Add-In
 
