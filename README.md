@@ -10,9 +10,8 @@ Each task board can be setup differently, including how the tasks are presented.
 [![Feature Overview](https://raw.githubusercontent.com/AgileIS/AgileTaskBoard/master/docs/images/TeaserOverview.gif)](https://www.youtube.com/watch?v=Omb4-xvUENI "Feature Overview")
 
 - [Key Features](#key-features)
-- [Get the Agile Task Board for SharePoint](#get-the-agile-task-board-for-sharepoint)
-- [Overview Video](#overview-video)
-- [Installation Guides](#installation-guides)
+- [Get the Agile Task Board App](#get-the-agile-task-board-app)
+- [Installation Guides](#installation-guide)
 - [Changelog](#changelog)
 - [Further information](#further-information)
 
@@ -64,7 +63,7 @@ We are currently working on our licensing service. At the moment the Service sup
 - invite other company users to manage the licenses
 - ...
 
-[Request a license](docs/Licensing.md)
+[Request a license](docs/License.md)
 
 [Licensing Information](https://agiletaskboard.agile-is.de)
 
