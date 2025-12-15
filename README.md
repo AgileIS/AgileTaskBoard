@@ -24,8 +24,9 @@ For Teams and SharePoint Online environments, we recommend installing the Agile 
 | ------------------ | ------------------------------------------------------------------------------------------------- |
 | Teams              | agiletaskboard-teams.zip                                                                          |
 | Online             | agiletaskboard-sponline.sppkg                                                                     |
-| 2019               | agiletaskboard-sp2019.sppkg    (latest version v2.2.5.0)                                          |
-| 2016               | agiletaskboard-sp2016.sppkg    (latest version v2.2.5.0)                                          |
+| SE                 | agiletaskboard-spse.sppkg    (latest version v2.2.5.1)                                            |
+| 2019               | agiletaskboard-sp2019.sppkg    (latest version v2.2.5.1)                                          |
+| 2016               | agiletaskboard-sp2016.sppkg    (latest version v2.2.5.1)                                          |
 | 2013               | `deprecated`                                                                                      |
 
 ## Need Help?
